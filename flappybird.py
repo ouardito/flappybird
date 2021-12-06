@@ -89,7 +89,6 @@ class Bird:
     def get_mask(self):
         return pygame.mask.from_surface(self.img)
 
-
 class Pipe():
     
     GAP = 200
