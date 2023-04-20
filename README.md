@@ -1,4 +1,4 @@
-# flappybird
+# Flappy Bird clone | AI Driven App
 Python project for my first year at NTU, It incldue OOP approach, game design using pygam and AI algorithms (Mainly NEAT).
 
 This project is a university project, therefore usage for educational purposes only !
